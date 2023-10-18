@@ -1,0 +1,73 @@
+.vector-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logos-icon3 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instacart-grocery2 {
+  position: relative;
+  font-weight: 500;
+  background: linear-gradient(90deg, #36373a, rgba(54, 55, 58, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 171px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.logo3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.icons4 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.div1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.tab {
+  position: absolute;
+  height: 47.06%;
+  width: 84.77%;
+  top: 26.47%;
+  right: 7.62%;
+  bottom: 26.47%;
+  left: 7.62%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.property-1disable-2-styleli {
+  position: relative;
+  width: 256px;
+  height: 34px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-manrope);
+}

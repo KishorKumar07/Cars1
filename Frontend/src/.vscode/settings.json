@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "Cars",
+    "id": "652e38fe92f018454538c432",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "d:\\VS Code\\Flyweis\\Cars\\src\\components",
+    "screensPath": "d:\\VS Code\\Flyweis\\Cars\\src\\pages",
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}

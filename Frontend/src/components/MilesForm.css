@@ -1,0 +1,10 @@
+.poster-1-parent {
+  position: absolute;
+  top: 1464px;
+  left: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}

@@ -1,0 +1,56 @@
+.vector-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logos-icon4 {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.new-tab1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 175px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.logo4 {
+  position: absolute;
+  top: 9px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.icons5 {
+  position: absolute;
+  top: 9px;
+  left: 225px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.property-1enable-stylelight {
+  position: relative;
+  width: 256px;
+  height: 34px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-manrope);
+}

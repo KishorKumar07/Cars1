@@ -1,0 +1,57 @@
+.stylelight-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-8xs) var(--br-8xs) 0px 0px;
+  background-color: var(--color-gainsboro-100);
+}
+.icon-child {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-tomato-100);
+  border: 0.5px solid var(--color-tomato-200);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.icon-item {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod-100);
+  border: 0.5px solid var(--color-goldenrod-200);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.icon-inner {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-limegreen);
+  border: 0.5px solid var(--color-forestgreen);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.icon1 {
+  position: absolute;
+  height: 29.27%;
+  width: 3.61%;
+  top: 34.15%;
+  right: 95.49%;
+  bottom: 36.59%;
+  left: 0.9%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.stylelight1 {
+  position: relative;
+  width: 1440px;
+  height: 41px;
+}

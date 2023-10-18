@@ -1,0 +1,117 @@
+.vector-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.logos-icon {
+  position: relative;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.new-tab {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 175px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.logo {
+  position: absolute;
+  top: 9px;
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.icons {
+  position: absolute;
+  top: 9px;
+  left: 225px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.tabs {
+  position: relative;
+  width: 256px;
+  height: 34px;
+  margin-left: -16px;
+}
+.instacart-grocery {
+  position: relative;
+  font-weight: 500;
+  background: linear-gradient(90deg, #36373a, rgba(54, 55, 58, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 171px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.logo1 {
+  position: absolute;
+  top: 9px;
+  left: 19.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.icons1 {
+  position: absolute;
+  top: 9px;
+  left: 220.5px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.tabs-child {
+  position: absolute;
+  top: 8.5px;
+  left: 246px;
+  width: 1px;
+  height: 17px;
+  object-fit: cover;
+}
+.tabs-icon {
+  position: relative;
+  width: 256px;
+  height: 34px;
+  object-fit: cover;
+  margin-left: -16px;
+}
+.tabs-parent {
+  position: absolute;
+  top: 7px;
+  left: 70px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stylelight {
+  position: relative;
+  border-bottom: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-manrope);
+}

@@ -1,0 +1,118 @@
+.poster-1-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(180deg, #ffe6cf, #cbdaff);
+  width: 192px;
+  height: 187px;
+}
+.poster-1-item {
+  position: absolute;
+  top: 119.37px;
+  left: 142.5px;
+  width: 61px;
+  height: 85px;
+  object-fit: cover;
+}
+.poster-1-inner {
+  position: absolute;
+  top: 140.5px;
+  left: 0px;
+  width: 38.5px;
+  height: 43.71px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  top: 143.5px;
+  left: 0px;
+  width: 34.5px;
+  height: 43.5px;
+  object-fit: cover;
+}
+.poster-1-child1 {
+  position: absolute;
+  top: 146.5px;
+  left: 0px;
+  width: 30.5px;
+  height: 40.5px;
+  object-fit: cover;
+}
+.poster-1-child2 {
+  position: absolute;
+  top: 149.5px;
+  left: 0px;
+  width: 26.5px;
+  height: 37.5px;
+  object-fit: cover;
+}
+.poster-1-child3 {
+  position: absolute;
+  top: 152.5px;
+  left: 0px;
+  width: 22.5px;
+  height: 34.5px;
+  object-fit: cover;
+}
+.na-feb-34-1-icon {
+  position: absolute;
+  top: 91px;
+  left: 22px;
+  width: 170px;
+  height: 96px;
+  object-fit: cover;
+}
+.poster-1-child4 {
+  position: absolute;
+  top: 1.23px;
+  left: 103.75px;
+  width: 86.91px;
+  height: 78.9px;
+  object-fit: cover;
+}
+.poster-1-child5 {
+  position: absolute;
+  top: 0px;
+  left: 170.5px;
+  width: 86.25px;
+  height: 78.63px;
+  object-fit: cover;
+}
+.miles {
+  position: relative;
+  letter-spacing: 0.22px;
+  font-weight: 600;
+}
+.free-road-side {
+  margin: 0;
+}
+.free-road-side-container {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.22px;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+.miles-parent {
+  position: absolute;
+  top: 20px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.poster-1 {
+  position: relative;
+  width: 192px;
+  height: 187px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-khaki);
+  font-family: var(--font-poppins);
+}

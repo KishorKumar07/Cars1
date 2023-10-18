@@ -1,0 +1,94 @@
+.poster-3-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(
+    180deg,
+    #6766db 29.23%,
+    rgba(253, 123, 169, 0.68) 70.42%
+  );
+  width: 192px;
+  height: 187px;
+}
+.poster-3-item {
+  position: absolute;
+  top: 0px;
+  left: 17.53px;
+  width: 186.5px;
+  height: 72.22px;
+  object-fit: cover;
+}
+.poster-3-inner {
+  position: absolute;
+  top: 0px;
+  left: 11.53px;
+  width: 186.5px;
+  height: 72.22px;
+  object-fit: cover;
+}
+.poster-3-child1 {
+  position: absolute;
+  top: 0px;
+  left: 5.53px;
+  width: 186.5px;
+  height: 72.22px;
+  object-fit: cover;
+}
+.poster-3-child2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 76px;
+  object-fit: cover;
+}
+.wavy-bus-42-single-03-1-icon {
+  position: absolute;
+  top: 54px;
+  left: 87px;
+  width: 161px;
+  height: 161px;
+  object-fit: cover;
+}
+.poster-3-child3 {
+  position: absolute;
+  top: 80.67px;
+  left: 0px;
+  width: 106.1px;
+  height: 118.68px;
+  object-fit: cover;
+}
+.accessories {
+  position: relative;
+  letter-spacing: 0.22px;
+  font-weight: 600;
+}
+.check-them-out {
+  position: relative;
+  letter-spacing: 0.22px;
+  font-weight: 300;
+  font-family: var(--font-inter);
+}
+.accessories-parent {
+  position: absolute;
+  top: 17px;
+  left: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.poster-3 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  background: linear-gradient(180deg, #fc7aa9, rgba(117, 108, 225, 0));
+  width: 192px;
+  height: 187px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

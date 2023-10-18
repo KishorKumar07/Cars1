@@ -1,0 +1,148 @@
+.icons-child {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.refresh-parent {
+  width: 48px;
+  height: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.icons-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.search-google-or {
+  position: relative;
+  font-weight: 500;
+}
+.google-parent {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-12xs) 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.icon-favorite {
+  position: absolute;
+  top: calc(50% - 8px);
+  right: 0px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.frame-parent1 {
+  position: absolute;
+  top: 5px;
+  left: 12px;
+  width: 1091px;
+  height: 19px;
+}
+.frame-wrapper {
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke-100);
+  width: 1115px;
+  height: 28px;
+}
+.extension-icon {
+  position: absolute;
+  top: 4px;
+  left: 0px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.union-icon {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+}
+.exclude-child {
+  position: absolute;
+  top: 5.64px;
+  left: 63.14px;
+  background-color: var(--color-gainsboro-200);
+  width: 7.5px;
+  height: 10.71px;
+}
+.exclude-item {
+  position: absolute;
+  top: 3.5px;
+  left: 61px;
+  background-color: var(--color-gainsboro-200);
+  width: 15px;
+  height: 15px;
+}
+.exclude {
+  position: relative;
+  background-color: var(--color-dimgray-200);
+  width: 15px;
+  height: 15px;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 0px;
+  left: 92px;
+  border-radius: 50%;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.ellipse-div {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 3px;
+  height: 3px;
+}
+.ellipse-parent {
+  position: absolute;
+  top: 4.5px;
+  left: 130px;
+  height: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xs);
+}
+.extension-parent {
+  position: relative;
+  width: 133px;
+  height: 22px;
+}
+.frame-container {
+  position: absolute;
+  top: 5px;
+  left: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.stylehome-modelight {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 38px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-manrope);
+}
