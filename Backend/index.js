@@ -23,6 +23,10 @@ app.use(cors());
 // routes
 app.use("/api/users", userRoutes);
 app.use("/api/auth", authRoutes);
-console.log("Helllo world");
 const port = process.env.PORT || 8080;
+app.listen(port, (req,res) => {
+   res.send("Hello Kishor")
+  });
+
+
 app.listen(port, console.log(`Listening on port ${port}...`));
